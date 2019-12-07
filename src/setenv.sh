@@ -6,3 +6,4 @@ export KUBECONFIG=/tmp/ic/AB/.bluemix/plugins/container-service/clusters/tektonk
 export NAMESPACE=blackcat
 export EMAIL=gonghexiong@yeah.net
 export INGRESS=tektonknativebeijing34-0e3e0ef4c9c6d831e8aa6fe01f33bfc4-0001.jp-tok.containers.appdomain.cloud
+export APIKEY=55DkRvWkICPVIcdF9aZvonTVAAoCEyO0XuZY8uukvS_S
