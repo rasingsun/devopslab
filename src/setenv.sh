@@ -3,6 +3,6 @@ export GITACCOUNT=rasingsun
 export MYCLUSTER=
 export KUBECONFIG=
 
-export NAMESPACE=
+export NAMESPACE=blackcat
 export EMAIL=
 export INGRESS=gonghexiong@yeah.net
