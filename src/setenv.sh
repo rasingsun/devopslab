@@ -1,6 +1,6 @@
 export GITACCOUNT=rasingsun
 
-export MYCLUSTER=
+export MYCLUSTER=tektonknativebeijing34
 export KUBECONFIG=
 
 export NAMESPACE=blackcat
