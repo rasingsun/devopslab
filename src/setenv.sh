@@ -1,8 +1,8 @@
 export GITACCOUNT=rasingsun
 
 export MYCLUSTER=tektonknativebeijing34
-export KUBECONFIG=
+export KUBECONFIG=/tmp/ic/AB/.bluemix/plugins/container-service/clusters/tektonknativebeijing34/kube-config-tok02-tektonknativebeijing34.yml
 
 export NAMESPACE=blackcat
-export EMAIL=
-export INGRESS=gonghexiong@yeah.net
+export EMAIL=gonghexiong@yeah.net
+export INGRESS=
